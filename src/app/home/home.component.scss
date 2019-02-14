@@ -1,0 +1,42 @@
+.alignText {
+    margin: relative;
+    margin: 100px;
+}
+
+.alignText h2 {
+    text-align: left;
+    font-family: 'Stratum2Web', sans-serif;
+    -webkit-text-fill-color: RGB(83,173,182);
+    text-shadow: 1px 1px 0 #000;
+    text-indent: 50px;
+    
+
+}
+
+.alignText h3 {
+
+    text-align: left;
+    font-family: 'Stratum2Web', sans-serif;
+    -webkit-text-fill-color: RGB(83,173,182);
+    text-shadow: 1px 1px 0 #000;
+    text-indent: 50px;
+    
+}
+
+
+.columns {
+    column-count: 2;
+    column-gap: 40px;
+}
+
+
+ul {
+    list-style-type: square;
+    font-family:  'Stratum2Web', sans-serif;
+    -webkit-text-fill-color: rgb(0, 0, 0);
+    font-size: 16px;
+    text-align: left;
+    text-indent: 1px;
+    
+    
+}
